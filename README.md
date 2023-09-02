@@ -11,7 +11,7 @@ This is a simple and elegant music player developed using HTML, CSS, and JavaScr
 
 ## Demo
 
-Check out the live demo [here](https://vishnu1100.github.io/SOUNDCLOUD_FREE_TEMPLATE/).
+Check out the live demo [here](https://soundcloud.com/).
 
 
 
